@@ -4,6 +4,7 @@ class test {
 
     public static void main(String[] args) {
 
+        /* Comment added */
         out.println("hello world");
         out.println("new line");
     }

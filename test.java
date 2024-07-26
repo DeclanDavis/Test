@@ -1,6 +1,6 @@
 import static java.lang.System.out;
 
-class test {
+class Test {
 
     public static void main(String[] args) {
 
